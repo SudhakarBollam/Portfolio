@@ -165,7 +165,7 @@ export const PROJECTS = [
     title: 'Crypto Portfolio & Trade Intelligence Platform',
     description: 'Full-stack demo: Node.js (Express) + MongoDB REST API with JWT authentication, role-based access control (User, Admin, Analyst), trade journaling with filtering and pagination, analyst analytics, CoinGecko market data, Swagger docs, rate limiting, structured logging, and a React (Vite) client with dark mode, protected routes, and CRUD UX.',
     tags: ['Node.js', 'Express', 'MongoDB', 'React', 'JWT', 'CoinGecko'],
-    image: 'https://res.cloudinary.com/qpkoucgc/image/upload/v1785621557/Screenshot_2026-08-02_032802_jk4uuw.png',
+    image: 'https://res.cloudinary.com/qpkoucgc/image/upload/v1785622307/790fe245-6638-48cc-8fc2-272b8cc28c22_wy7jt9.png',
     url: 'https://github.com/SudhakarBollam/CRYPTO_TRADE_APP',
     pitchUrl: '',
     featured: true,
