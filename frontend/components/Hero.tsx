@@ -2,7 +2,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { ArrowDown, ArrowRight, Download } from 'lucide-react';
+import { ArrowRight, Download } from 'lucide-react';
 import { slideUpVariants, containerVariants } from '@/lib/animations';
 import { PROFILE, HERO_HIGHLIGHTS } from '@/lib/constants';
 
